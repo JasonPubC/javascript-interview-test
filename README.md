@@ -29,9 +29,13 @@ This is to simulate that restriction.
 ## Sending back the results
 
 Please zip your finished test files and send them back via email.\
-Please **DO NOT** fork and upload your results to github.
+Please **DO NOT** fork and upload your results to github. If you can make it\
+a "private" repo, add me (JasonPubC) as a collaborator.
 
 We appreciate your time for taking this test.
 
 Many Thanks,\
 Publisher Collective Team
+
+FYI, an example of the expected results as seen in the web browser.
+[](result.png)

@@ -2,6 +2,7 @@
 <script>
   window.googletag = window.googletag || {cmd: []};
   googletag.cmd.push(function() {
+	googletag.pubads().setTargeting('testads','stage');
     googletag.defineSlot(
 		'/6928793/PCGamesN-606d99b65a477/PCGamesN-MPU1-606db873dd038',
 		[
