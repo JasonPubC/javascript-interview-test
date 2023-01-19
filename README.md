@@ -38,4 +38,4 @@ Many Thanks,\
 Publisher Collective Team
 
 FYI, an example of the expected results as seen in the web browser.
-[](result.png)
+![what the advert should look like](./result.png)
